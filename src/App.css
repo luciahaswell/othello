@@ -242,6 +242,12 @@
     height: 44px;
     width: 140px;
   }
+
+  .reset:active{
+    font-size: 14px;
+    height: 44px;
+    width: 140px;
+  }
 }
 
 @media screen and (max-width:450px){
@@ -250,7 +256,6 @@
     width: 300px;
   }
 
-  
   .chip{
     height: 30px;
     width: 30px;
@@ -270,6 +275,5 @@
     height: 25px;
     margin: 0px 8px;
   }
-
 
 }
